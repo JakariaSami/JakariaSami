@@ -3,7 +3,7 @@
 👨‍💻 Aspiring Software Engineer. Experienced in Web Dev. <br/>
 🏫 Studying Computer Science. <br/>
 ⚡ Enthusiastic about Machine Learning, AI & Data Science. <br/>
-💬 Send a massage on [LinkedIn](https://linkedin.com/in/jakariasami).
+💬 Send a message on [LinkedIn](https://linkedin.com/in/jakariasami).
 
 ## GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakariaSami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

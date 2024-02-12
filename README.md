@@ -1,12 +1,12 @@
-## Hi, I'm Jakaria Sami.
+# Hi, I'm Jakaria Sami.
 
 👨‍💻 Aspiring Software Engineer. Experienced in Web Dev. <br/>
 🏫 Studying Computer Science. <br/>
 ⚡ Enthusiastic about Machine Learning, AI & Data Science. <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JakariaSami&theme=dark&hide_border=false)<br/>
+## GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakariaSami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JakariaSami&theme=dark&hide_border=false)<br/>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariasami) 

@@ -1,8 +1,8 @@
 # ⚡ Jakaria Sami.
 
 👨‍💻 Aspiring Software Engineer. Experienced in Web Dev. <br/>
-🏫 Studying Computer Science. <br/>
-⚡ Enthusiastic about Machine Learning, AI & Data Science. <br/>
+🏫 Informatin Engineering @ HAW Hamburg University. <br/>
+⚡ Enthusiastic about Machine Learning & Data Science. <br/>
 💬 Send a message on [LinkedIn](https://linkedin.com/in/jakariasami).
 
 ## GitHub Stats:

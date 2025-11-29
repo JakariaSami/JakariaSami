@@ -1,12 +1,8 @@
 # ⚡ Jakaria Sami.
 
-👨‍💻 Aspiring Software Engineer. Experienced in Web Dev. <br/>
 🏫 Information Engineering @ HAW Hamburg University. <br/>
-⚡ Enthusiastic about Machine Learning & Data Science. <br/>
+⚡ Enthusiastic about Data Science/Analytics & Machine Learning. <br/>
 💬 Send a message on [LinkedIn](https://linkedin.com/in/jakariasami).
-
-## GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakariaSami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariasami) 
